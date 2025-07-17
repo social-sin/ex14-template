@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: Helvetica, sans-serif;
+  color: black;
+  font-size: 14px;
+}
+
+body {
+  min-width: 500px;
+  margin: auto;
+  background-color: #f3f7f8;
+}
+
+header, footer{
+  text-align: center;
+  min-width: 500px;
+  height: 50px;
+  padding: 15px 0 30px 0;
+  background-color: #025159;
+  color: #FFFFFF;
+}
+
+.navLogo {
+  font-size: 2.9rem;
+  font-weight: 700;
+  padding: 10px;
+  font-family: trilby, serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+footer p {
+  font-size: .8rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.bear {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+}
